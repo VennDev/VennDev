@@ -1,6 +1,6 @@
 ### Hi there 👋 I am VennDev!
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VennDev&layout=compact&theme=default" alt="top-langs"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VennDev&layout=compact&theme=graywhite" alt="top-langs"/>
 <img src="https://github-readme-stats.vercel.app/api?username=VennDev&theme=graywhite&show_icons=true" alt="github-stats"/>
 <img src="https://github-profile-trophy.vercel.app/?username=VennDev"/>
 
