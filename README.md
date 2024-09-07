@@ -61,7 +61,7 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=VennDev&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
   
 </div>
 
