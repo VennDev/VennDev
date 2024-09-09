@@ -53,7 +53,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,neovim,vim,cpp,c,cs,go,php,css,discord,docker,postgres,mysql,sqlserver,dotnet,redis,github,html,java,js,linux,mongodb,nextjs,nodejs,postman,py,react,ts,vscode,eclipse,idea,phpstorm,rider,webstorm,bootstrap,visualstudio,ubuntu&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,neovim,vim,cpp,c,cs,go,php,css,discord,docker,postgres,mysql,sql,dotnet,redis,github,html,java,js,linux,mongodb,nextjs,nodejs,postman,py,react,ts,vscode,eclipse,idea,phpstorm,rider,webstorm,bootstrap,visualstudio,ubuntu&perline=14" />
   </a>
 </p>
 
