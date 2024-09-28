@@ -8,9 +8,9 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm VennDev</h1></summary>
   </ul>
 </div>
-
+<p align="center">
 - I have more than 7 years of experience in developing a server that runs on PocketMine-PMMP and handles the logic in the PHP language.
-
+</p>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
