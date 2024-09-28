@@ -9,7 +9,7 @@
   </ul>
 </div>
 <div>
-  <p>I have more than 7 years of experience in developing a server that runs on PocketMine-PMMP and handles the logic in the PHP language.</p>
+  <p>- I have more than 7 years of experience in developing a server that runs on PocketMine-PMMP and handles the logic in the PHP language.</p>
 </div>
 
 
