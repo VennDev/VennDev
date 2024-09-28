@@ -16,7 +16,6 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=VennDev&theme=gruvbox&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=VennDev&theme=gruvbox&hide_border=false" /> 
@@ -38,7 +37,7 @@
     </a>
 </div>
 <!--- trophy (start) -->
-
+<span>I have more than 7 years of experience in developing a server that runs on PocketMine-PMMP and handles the logic in the PHP language.</span>
 
 </p>        
 <!--- stats (end) -->
