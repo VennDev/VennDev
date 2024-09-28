@@ -8,6 +8,9 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm VennDev</h1></summary>
   </ul>
 </div>
+<div>
+  <p>I have more than 7 years of experience in developing a server that runs on PocketMine-PMMP and handles the logic in the PHP language.</p>
+</div>
 
 
 <!--- stats & Trophy (start) -->
@@ -35,11 +38,6 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=VennDev&theme=gruvbox&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
-</div>
-
-<!--- trophy (start) -->
-<div>
-  <span>I have more than 7 years of experience in developing a server that runs on PocketMine-PMMP and handles the logic in the PHP language.</span>
 </div>
 </p>        
 <!--- stats (end) -->
