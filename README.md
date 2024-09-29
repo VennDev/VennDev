@@ -26,7 +26,7 @@
 
 **Game development**
 - [VTetris](https://github.com/VennDev/VTetris), a legendary tile game written in Golang.
-- [PocketMine-MP](https://github.com/pmmp/PocketMine-MP), a Minecraft server software designed to run through the language and utilities supported via PHP. PocketMine-MP here I have some huge contributions such as plugins, virions and some other useful tools.
+- [PocketMine-MP](https://github.com/pmmp/PocketMine-MP), a Minecraft server software designed to run through the language and utilities supported via PHP. Here I have some huge contributions such as plugins, virions and some other useful tools.
 
 **Web development**
 - [VRestAPI](https://github.com/Nhom7-CNPM3/RestAPI), a webAPI PHP software is run through the Slim library.
