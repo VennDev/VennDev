@@ -37,7 +37,7 @@
 
 **Contact Information**
 - Email: pnam5005@gmail.com
-- Discord: venndev
+- Discord: [venndev]()
 - Facebook: https://www.facebook.com/Nam0981/
 <!--- stats & Trophy (start) -->
 <p align="center">
