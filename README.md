@@ -22,7 +22,7 @@
 - [Vapm](https://github.com/VennDev/Vapm), a library that supports asynchrony and other functions that help not block or optimize the performance of a program running PHP.
 - [VGo](https://github.com/VennDev/VGo), a library that makes it easier to manage Golang's Goroutines using the Async Await syntax or promises.
 - [VB-Request](https://github.com/VennDev/vb-request), a small library for simple load balancing handling.
-There are also some other libraries however I feel it is not worth putting up here at the moment :))
+- There are also some other libraries however I feel it is not worth putting up here at the moment :))
 
 **Game development**
 - [VTetris](https://github.com/VennDev/VTetris), a legendary tile game written in Golang.
