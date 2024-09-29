@@ -35,6 +35,10 @@
 **Information Security**
 - [SpartanPHP](https://github.com/VennDev/SpartanPHP), a software tool that helps secure PHP source code from people who want to read and analyze your code. However it is private that source.
 
+**Contact Information**
+- Email: pnam5005@gmail.com
+- Discord: venndev
+- Facebook: https://www.facebook.com/Nam0981/
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
