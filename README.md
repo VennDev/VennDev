@@ -8,9 +8,29 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm VennDev</h1></summary>
   </ul>
 </div>
-<p align="center">
-<div>I have more than 7 years of experience in developing a server that runs on PocketMine-PMMP and handles the logic in the PHP language.</div>
-</p>
+# About Me
+- I have more than 7 years of experience in developing a server that runs on PocketMine-PMMP and handles the logic in the PHP language.
+- Experience in multilingual processing such as: Golang, PHP, JavaScript, ...
+- The language used for all types of work: Golang
+
+# Highlighted projects
+- This is my personal project number.
+
+**Libraries**
+- [Vapm](https://github.com/VennDev/Vapm), a library that supports asynchrony and other functions that help not block or optimize the performance of a program running PHP.
+- [VGo](https://github.com/VennDev/VGo), a library that makes it easier to manage Golang's Goroutines using the Async Await syntax or promises.
+- [VB-Request](https://github.com/VennDev/vb-request), a small library for simple load balancing handling.
+There are also some other libraries however I feel it is not worth putting up here at the moment :))
+
+**Game development**
+- [VTetris](https://github.com/VennDev/VTetris), a legendary tile game written in Golang.
+- [PocketMine-MP](https://github.com/pmmp/PocketMine-MP), a Minecraft server software designed to run through the language and utilities supported via PHP. PocketMine-MP here I have some huge contributions such as plugins, virions and some other useful tools.
+
+**Web development**
+- [VRestAPI](https://github.com/Nhom7-CNPM3/RestAPI), a webAPI PHP software is run through the Slim library.
+
+**Information Security**
+- [SpartanPHP](https://github.com/VennDev/SpartanPHP), a software tool that helps secure PHP source code from people who want to read and analyze your code. However it is private that source.
 
 <!--- stats & Trophy (start) -->
 <p align="center">
