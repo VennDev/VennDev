@@ -9,7 +9,7 @@
   </ul>
 </div>
 
-<img align="center" width=200% src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHo5cW5pcXpteGRid3hud2dyYzA5Z3BybGNlcnBzcGZhc3d1MHE5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j3OL6mSc2FeV0UHMDg/giphy.gif">
+<img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHo5cW5pcXpteGRid3hud2dyYzA5Z3BybGNlcnBzcGZhc3d1MHE5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j3OL6mSc2FeV0UHMDg/giphy.gif">
 
 # About Me
 - My current job: College Student
