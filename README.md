@@ -9,6 +9,7 @@
   </ul>
 </div>
 
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzg4MXB4MGQwZ2VueDczb2N4NXNqNjRocmtveHNocmY5bjRud3A1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IpSc0bp7LmGC4/giphy.gif">
 
 # About Me
 - My current job: College Student
