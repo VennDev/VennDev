@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img width="100%" style="max-width: 600px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.4);" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmhuaDEyN2R5aml3cTk3OGI3YmI0eHA4OWxjYTVlbG55cXc5ZXU0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3978y5HqiEtqupiM/giphy.gif">
+  <img width="100%" style="max-width: 600px; border-radius: 35px; box-shadow: 0 4px 15px rgba(0,0,0,0.4);" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmhuaDEyN2R5aml3cTk3OGI3YmI0eHA4OWxjYTVlbG55cXc5ZXU0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3978y5HqiEtqupiM/giphy.gif">
 </div>
 
 <div style="margin: 40px 0; padding: 20px; background: #3c3836; border-radius: 10px; color: #ebdbb2; font-family: 'Arial', sans-serif;">
