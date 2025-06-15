@@ -92,7 +92,7 @@
 
 <div align="center" style="margin: 40px 0;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,neovim,vim,cpp,c,cs,go,rust,php,js,ts,py,java,html,css,discord,docker,postgres,mysql,dotnet,redis,laravel,github,linux,mongodb,nextjs,nodejs,postman,react,vscode,eclipse,idea,phpstorm,rider,webstorm,bootstrap,visualstudio,ubuntu,kafka&perline=14" style="max-width: 800px;">
+    <img src="https://skillicons.dev/icons?i=git,neovim,vim,cpp,c,cs,go,rust,php,js,ts,py,java,html,css,discord,docker,postgres,mysql,dotnet,redis,laravel,github,linux,mongodb,nextjs,nodejs,postman,react,vscode,eclipse,idea,phpstorm,rider,webstorm,bootstrap,visualstudio,ubuntu,kafka,tensorflow&perline=14" style="max-width: 800px;">
   </a>
 </div>
 
