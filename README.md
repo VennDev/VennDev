@@ -28,7 +28,8 @@
     <div style="background: #504945; padding: 20px; border-radius: 10px; color: #ebdbb2;">
       <h3 style="color: #8ec07c;">Libraries</h3>
       <ul style="list-style: none; padding: 0;">
-        <li><a href="https://github.com/VennDev/Vapm" style="color: #ebdbb2; text-decoration: none;">Vapm</a>: Async PHP library for performance optimization.</li>
+        <li><a href="https://github.com/VennDev/Vapm" style="color: #ebdbb2; text-decoration: none;">Vapm</a>: Async PHP library with syntax like js for performance optimization.</li>
+        <li><a href="https://github.com/VennDev/VOsaka" style="color: #ebdbb2; text-decoration: none;">VOsaka</a>: An async PHP library optimized for better performance.</li>
         <li><a href="https://github.com/VennDev/VGo" style="color: #ebdbb2; text-decoration: none;">VGo</a>: Simplifies Golang Goroutines with Async/Await.</li>
         <li><a href="https://github.com/VennDev/vb-request" style="color: #ebdbb2; text-decoration: none;">VB-Request</a>: Lightweight load balancing library.</li>
       </ul>
