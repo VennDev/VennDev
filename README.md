@@ -17,8 +17,8 @@
   <ul style="list-style: none; padding: 0; line-height: 1.8;">
     <li><b>Current Role:</b> College Student</li>
     <li><b>Experience:</b> Over 7 years developing servers with <a href="https://github.com/pmmp/PocketMine-MP" style="color: #8ec07c;">PocketMine-MP</a> using PHP.</li>
-    <li><b>Multilingual Expertise:</b> Golang, PHP, JavaScript, and more.</li>
-    <li><b>Primary Languages:</b> Golang, JavaScript, Java</li>
+    <li><b>Multilingual Expertise:</b> Golang, PHP, JavaScript, Rust, and more.</li>
+    <li><b>Primary Languages:</b> Golang, Java, Rust</li>
   </ul>
 </div>
 
