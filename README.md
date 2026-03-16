@@ -28,9 +28,8 @@
     <div style="background: #504945; padding: 20px; border-radius: 10px; color: #ebdbb2;">
       <h3 style="color: #8ec07c;">Libraries</h3>
       <ul style="list-style: none; padding: 0;">
-        <li><a href="https://github.com/vosaka-php/vosaka" style="color: #ebdbb2; text-decoration: none;">VOsaka</a>: An async PHP library optimized for better performance.</li>
+        <li><a href="https://github.com/vosaka-php/vosaka-foroutines" style="color: #ebdbb2; text-decoration: none;">VOsaka Foroutines</a>: An async PHP library optimized for better performance.</li>
         <li><a href="https://github.com/VennDev/VGo" style="color: #ebdbb2; text-decoration: none;">VGo</a>: Simplifies Golang Goroutines with Async/Await.</li>
-        <li><a href="https://github.com/VennDev/vb-request" style="color: #ebdbb2; text-decoration: none;">VB-Request</a>: Lightweight load balancing library.</li>
       </ul>
     </div>
     <div style="background: #504945; padding: 20px; border-radius: 10px; color: #ebdbb2;">
@@ -44,6 +43,7 @@
       <h3 style="color: #8ec07c;">Web Development</h3>
       <ul style="list-style: none; padding: 0;">
         <li><a href="https://github.com/Nhom7-CNPM3/RestAPI" style="color: #ebdbb2; text-decoration: none;">VRestAPI</a>: PHP REST API with Slim framework.</li>
+        <li><a href="https://github.com/VennDev/SimpleAuthS" style="color: #ebdbb2; text-decoration: none;">SimpleAuthS</a>: Simple auth template for ViteJS + Go project.</li>
       </ul>
     </div>
     <div style="background: #504945; padding: 20px; border-radius: 10px; color: #ebdbb2;">
