@@ -1,101 +1,121 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="width: 100%; max-width: 800px;">
-</div>
-
-<div id="user-content-toc" style="background: linear-gradient(135deg, #2b2b2b, #1e1e1e); padding: 30px; border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.5); margin: 20px 0;">
-  <ul align="center" style="list-style: none;">
-    <li><h1 style="display: inline-block; color: #ebdbb2; font-family: 'Segoe UI', sans-serif; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">Hi 👋, I'm VennDev</h1></li>
-  </ul>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=VennDev&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20fast%2C%20beautiful%2C%20and%20intelligent%20systems&descAlignY=55&descSize=16" width="100%"/>
 </div>
 
 <div align="center">
-  <img width="100%" style="max-width: 600px; border-radius: 35px; box-shadow: 0 4px 15px rgba(0,0,0,0.4);" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmhuaDEyN2R5aml3cTk3OGI3YmI0eHA4OWxjYTVlbG55cXc5ZXU0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3978y5HqiEtqupiM/giphy.gif">
-</div>
-
-<div style="margin: 40px 0; padding: 20px; background: #3c3836; border-radius: 10px; color: #ebdbb2; font-family: 'Arial', sans-serif;">
-  <h2 style="color: #fabd2f; text-align: center;">About Me</h2>
-  <ul style="list-style: none; padding: 0; line-height: 1.8;">
-    <li><b>Current Role:</b> College Student</li>
-    <li><b>Experience:</b> Over 7 years developing servers with <a href="https://github.com/pmmp/PocketMine-MP" style="color: #8ec07c;">PocketMine-MP</a> using PHP.</li>
-    <li><b>Multilingual Expertise:</b> Golang, PHP, JavaScript, Rust, and more.</li>
-    <li><b>Primary Languages:</b> Golang, Java, Rust</li>
-  </ul>
-</div>
-
-<div style="margin: 40px 0;">
-  <h2 style="color: #fabd2f; text-align: center; font-family: 'Segoe UI', sans-serif;">Highlighted Projects</h2>
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; padding: 20px;">
-    <div style="background: #504945; padding: 20px; border-radius: 10px; color: #ebdbb2;">
-      <h3 style="color: #8ec07c;">Libraries</h3>
-      <ul style="list-style: none; padding: 0;">
-        <li><a href="https://github.com/vosaka-php/vosaka-foroutines" style="color: #ebdbb2; text-decoration: none;">VOsaka Foroutines</a>: An async PHP library optimized for better performance.</li>
-        <li><a href="https://github.com/VennDev/VGo" style="color: #ebdbb2; text-decoration: none;">VGo</a>: Simplifies Golang Goroutines with Async/Await.</li>
-      </ul>
-    </div>
-    <div style="background: #504945; padding: 20px; border-radius: 10px; color: #ebdbb2;">
-      <h3 style="color: #8ec07c;">Game Development</h3>
-      <ul style="list-style: none; padding: 0;">
-        <li><a href="https://github.com/VennDev/VTetris" style="color: #ebdbb2; text-decoration: none;">VTetris</a>: Classic tile-matching game in Golang.</li>
-        <li><a href="https://github.com/pmmp/PocketMine-MP" style="color: #ebdbb2; text-decoration: none;">PocketMine-MP</a>: Contributed plugins and tools for Minecraft server.</li>
-      </ul>
-    </div>
-    <div style="background: #504945; padding: 20px; border-radius: 10px; color: #ebdbb2;">
-      <h3 style="color: #8ec07c;">Web Development</h3>
-      <ul style="list-style: none; padding: 0;">
-        <li><a href="https://github.com/Nhom7-CNPM3/RestAPI" style="color: #ebdbb2; text-decoration: none;">VRestAPI</a>: PHP REST API with Slim framework.</li>
-        <li><a href="https://github.com/VennDev/SimpleAuthS" style="color: #ebdbb2; text-decoration: none;">SimpleAuthS</a>: Simple auth template for ViteJS + Go project.</li>
-      </ul>
-    </div>
-    <div style="background: #504945; padding: 20px; border-radius: 10px; color: #ebdbb2;">
-      <h3 style="color: #8ec07c;">Information Security</h3>
-      <ul style="list-style: none; padding: 0;">
-        <li><a href="https://github.com/VennDev/SpartanPHP" style="color: #ebdbb2; text-decoration: none;">SpartanPHP</a>: Private tool for securing PHP code.</li>
-      </ul>
-    </div>
-  </div>
-</div>
-
-<div style="margin: 40px 0; text-align: center;">
-  <h2 style="color: #fabd2f; font-family: 'Segoe UI', sans-serif;">Contact Information</h2>
-  <p style="color: #ebdbb2; line-height: 1.6;">
-    <b>Email:</b> pnam5005@gmail.com<br>
-    <b>Discord:</b> <a href="#" style="color: #8ec07c;">venndev</a><br>
-    <b>Facebook:</b> <a href="https://www.facebook.com/Nam0981/" style="color: #8ec07c;">Nam0981</a>
-  </p>
-</div>
-
-<div align="center" style="margin: 40px 0;">
-  <h2 style="color: #fabd2f; font-family: 'Segoe UI', sans-serif;">Stats & Achievements</h2>
-  <table style="border: none; width: 100%; max-width: 800px; margin: 0 auto;">
-    <tr>
-      <td style="text-align: center; padding: 10px;">
-        <img style="width: 100%; border-radius: 10px;" src="https://github-readme-stats.vercel.app/api?username=VennDev&theme=gruvbox&show_icons=true&count_private=true">
-        <img style="width: 100%; border-radius: 10px; margin-top: 10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=VennDev&theme=gruvbox&hide_border=false">
-      </td>
-      <td style="text-align: center; padding: 10px;">
-        <img style="width: 100%; border-radius: 10px;" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=VennDev&theme=gruvbox&hide_border=false&no-bg=true&no-frame=true&langs_count=10">
-      </td>
-    </tr>
-  </table>
-  <div style="margin-top: 20px;">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img style="width: 100%; max-width: 700px; border-radius: 10px;" src="https://github-profile-trophy.vercel.app/?username=VennDev&theme=gruvbox&row=1&column=7&margin-h=15&margin-w=5&no-bg=true">
-    </a>
-  </div>
-</div>
-
-<div id="user-content-toc" style="margin: 40px 0; text-align: center;">
-  <ul style="list-style: none;">
-    <li><h2 style="display: inline-block; color: #fabd2f; font-family: 'Segoe UI', sans-serif;">Technologies That I Know 👨🏻‍💻</h2></li>
-  </ul>
-</div>
-
-<div align="center" style="margin: 40px 0;">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,neovim,vim,cpp,c,cs,go,rust,php,js,ts,py,java,html,css,discord,docker,postgres,mysql,dotnet,redis,laravel,github,linux,arch,mongodb,nextjs,nodejs,postman,react,vscode,eclipse,idea,phpstorm,rider,webstorm,bootstrap,visualstudio,ubuntu,kafka,tensorflow,prometheus&perline=14" style="max-width: 800px;">
+  <a href="https://github.com/VennDev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A9FEF7&center=true&vCenter=true&width=600&lines=College+Student+%26+Open+Source+Enthusiast;7%2B+Years+with+PocketMine-MP+%26+PHP;Golang+%7C+Java+%7C+Rust+Developer;Building+AI+Systems+%26+Dev+Tools" alt="Typing SVG" />
   </a>
 </div>
 
+<br/>
+
+---
+
+## About Me
+
+```yaml
+name: VennDev
+role: College Student & Software Developer
+experience:
+  - "7+ years building Minecraft servers with PocketMine-MP (PHP)"
+  - "Multilingual: Golang, PHP, JavaScript, Rust, Python, Java"
+  - "Passionate about systems programming, AI, and open source"
+primary_languages: [Golang, Java, Rust]
+contact:
+  email: pnam5005@gmail.com
+  discord: venndev
+  facebook: https://www.facebook.com/Nam0981/
+```
+
+---
+
+## Highlighted Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Libraries
+| Project | Description |
+|---|---|
+| [**VOsaka Foroutines**](https://github.com/vosaka-php/vosaka-foroutines) | Async PHP library for high-performance concurrent execution |
+| [**VGo**](https://github.com/VennDev/VGo) | Simplifies Go Goroutines with clean Async/Await syntax |
+
+### Game Development
+| Project | Description |
+|---|---|
+| [**VTetris**](https://github.com/VennDev/VTetris) | Classic tile-matching game built in Golang |
+| [**PocketMine-MP**](https://github.com/pmmp/PocketMine-MP) | Plugins & tools for Minecraft server platform |
+
+</td>
+<td width="50%" valign="top">
+
+### Web Development
+| Project | Description |
+|---|---|
+| [**VRestAPI**](https://github.com/Nhom7-CNPM3/RestAPI) | PHP REST API built with Slim framework |
+| [**SimpleAuthS**](https://github.com/VennDev/SimpleAuthS) | Auth template for ViteJS + Go projects |
+
+### Information Security
+| Project | Description |
+|---|---|
+| [**SpartanPHP**](https://github.com/VennDev/SpartanPHP) | Private tool for securing and obfuscating PHP code |
+
+### AI & Machine Learning
+| Project | Description |
+|---|---|
+| [**VRecommendSystem**](https://github.com/VennDev/VRecommendSystem) | Production-ready AI recommendation engine with microservices: Go/Fiber API gateway, Python/FastAPI ML server, React dashboard — supports SVD, collaborative filtering, real-time Kafka streaming, Docker orchestration |
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Stats
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="width: 100%; max-width: 800px;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VennDev&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VennDev&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=10"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=VennDev&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VennDev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-h=10&margin-w=5" alt="Trophies"/>
+</div>
+
+---
+
+## Technologies & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=go,rust,java,php,js,ts,py,cpp,c,cs&perline=10" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=docker,redis,postgres,mysql,mongodb,kafka,prometheus,linux,arch,ubuntu&perline=10" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,laravel,dotnet,html,css,bootstrap,git,github&perline=10" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=neovim,vim,vscode,idea,phpstorm,rider,webstorm,eclipse,visualstudio,postman&perline=10" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,discord&perline=10" />
+</div>
+
+---
+
+## Contact
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-pnam5005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pnam5005@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-venndev-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Facebook](https://img.shields.io/badge/Facebook-Nam0981-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Nam0981/)
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
