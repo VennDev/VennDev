@@ -74,7 +74,7 @@ contact:
 </div>
 
 <div align="center">
-  <img src="https://trophygh.kolioaris.xyz?username=VennDev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-h=10&margin-w=5" alt="Trophies"/>
+  <img src="https://trophygh.kolioaris.xyz/?username=VennDev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-h=10&margin-w=5" alt="Trophies"/>
 </div>
 
 ---
