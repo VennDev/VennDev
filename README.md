@@ -32,10 +32,6 @@ contact:
 
 ## Highlighted Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### Libraries
 | Project | Description |
 |---|---|
@@ -47,9 +43,6 @@ contact:
 |---|---|
 | [**VTetris**](https://github.com/VennDev/VTetris) | Classic tile-matching game built in Golang |
 | [**PocketMine-MP**](https://github.com/pmmp/PocketMine-MP) | Plugins & tools for Minecraft server platform |
-
-</td>
-<td width="50%" valign="top">
 
 ### Web Development
 | Project | Description |
@@ -67,17 +60,13 @@ contact:
 |---|---|
 | [**VRecommendSystem**](https://github.com/VennDev/VRecommendSystem) | Production-ready AI recommendation engine with microservices: Go/Fiber API gateway, Python/FastAPI ML server, React dashboard — supports SVD, collaborative filtering, real-time Kafka streaming, Docker orchestration |
 
-</td>
-</tr>
-</table>
-
 ---
 
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VennDev&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VennDev&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=10"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VennDev&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VennDev&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=10"/>
 </div>
 
 <div align="center">
