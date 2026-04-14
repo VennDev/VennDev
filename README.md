@@ -74,7 +74,7 @@ contact:
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy-9azu.onrender.com/?username=VennDev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-h=10&margin-w=5" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=VennDev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-h=10&margin-w=5" alt="Trophies"/>
 </div>
 
 ---
